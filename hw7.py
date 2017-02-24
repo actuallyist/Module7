@@ -1,4 +1,3 @@
-from collections import OrderedDict
 from sortedcontainers import SortedDict
 
 def print_menu():
